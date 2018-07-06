@@ -1,0 +1,50 @@
+<annotation>
+	<folder>learning 자료</folder>
+	<filename>캡처_2018_06_26_10_17_36_439.png</filename>
+	<path>/home/soosang/VFSS 이미지/learning 자료/캡처_2018_06_26_10_17_36_439.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>787</width>
+		<height>893</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uros</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>380</ymin>
+			<xmax>401</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dros</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>454</ymin>
+			<xmax>444</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>food</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>500</ymin>
+			<xmax>460</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>
